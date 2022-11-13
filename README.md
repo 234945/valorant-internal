@@ -1,36 +1,12 @@
 # Goofy Valorant Internal Cheat
-> Visuals
-> Chams
-> Player Name
-> Box
-> Health
-> Shield
-> Snap Line
-> Draw Allies
-> Current weapon
-> Color Picker For Chams
+> Valorant Base For Your Internal Paste
 
-> Aimbot
-> Fov
-> Memory Aimbot
+if u sell this u are a fucktard <3
 
-> Exploits
-> Fly (training range only)
-> Third Person View mode
+## Need Help!?
 
-> Mics
-> Visible Check (Line of sight to)
-> Camera Slider
-> FOV
+you can get help by joining in my discord server
 
-u need an executor to use by yourself
-
-## Installing / Getting started
-
-paste in your executor the text below
-
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/234945/roblox/main/evade.lua"))()
-```
+```https://discord.gg/j8wWhh2Bdv```
 
 and boom wow your cheat is injected!
